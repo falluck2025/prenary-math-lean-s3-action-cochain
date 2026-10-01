@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/待回填.svg)](https://doi.org/待回填)
+[![DOI](https://zenodo.org/badge/DOI/23076134.svg)](https://doi.org/23076134)
 
 # 偏元数学 · Day28 · 动作上链与和乐（F 的代数 · 保区间 · 望远镜 · 动作型 vs 拓扑型 · 非上边界 · 退化＝回收 · 判据之不足 · 缩放的两档 · 补量-乘法同构 · 两档互逆配对 · 归一化残差 · 一般和乐的分离性 · N 步分离 · 对数化 · 平移出界与乘性留内 · 相对尺度与三投影 · 方向侧 κ 同型 · 复缩放显式刻画）· Lean 4 形式化验证
 
@@ -6,7 +6,7 @@
 
 本文工作尚未得到独立实验验证，全部结论均为形式化验证层面的初步结果。
 
-> **DOI**：（发布后回填本行与顶部徽章）。本仓库为偏元数学 S3（第三程）数学侧的**第三段**，上承 Day27 `prenary-math-lean-s3-residual-persistence`（残差为什么消不掉 · 层分离强化），并与 Day25 `prenary-math-lean-s3-sw-epsilon-eta`（ε↔η 映射）互为参照。
+> **DOI**：DOI: 10.5281/zenodo.23076134。本仓库为偏元数学 S3（第三程）数学侧的**第三段**，上承 Day27 `prenary-math-lean-s3-residual-persistence`（残差为什么消不掉 · 层分离强化），并与 Day25 `prenary-math-lean-s3-sw-epsilon-eta`（ε↔η 映射）互为参照。
 
 ## 摘要
 
